@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"CBŚP WARSZAWA",
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRv79yKBAY5BW3zvfPenbwNRsOL2r40nMFWa_d9A-1cWDD4feSmcOXL9J52z9OjskEcM8QKPwXFGX5G/pub?output=csv",
+  "git_remote":"git@github.com:F14v3/komenda"
+}
